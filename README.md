@@ -8,4 +8,8 @@ Add Leader
 Print Voters,Leader,coordinator Using Crystal report
 Simple UI and UX
 
+
+
+![alt text](https://i.imgur.com/TvFP9d3.jpg)
+
 ![alt text](https://i.imgur.com/5iPjxMG.jpg)
